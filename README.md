@@ -7,7 +7,7 @@
 ## Mes compétences
 
 ### Développement logiciel
-[![My Skills](https://skillicons.dev/icons?i=docker,py,c,cpp,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,py,c,cpp,cs,dotnet,js)](https://skillicons.dev)
 
 ### Machine learning
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn)](https://skillicons.dev)
